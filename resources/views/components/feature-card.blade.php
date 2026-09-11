@@ -6,6 +6,7 @@
 
 <div
     class="group rounded-3xl border border-[#E8DDCC] bg-[#FFFBF2] p-7 shadow-sm transition duration-300 hover:-translate-y-2 hover:shadow-[0_18px_40px_rgba(43,26,18,0.10)]"
+    transition duration-300 hover:-translate-y-1 hover:shadow-lg
 >
 
     {{-- Icon --}}
