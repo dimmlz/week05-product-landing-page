@@ -3,7 +3,7 @@
     class="sticky top-0 z-50 border-b border-[#E8DDCC] bg-[#FFF8ED]/95 backdrop-blur-md"
 >
 
-    <nav class="mx-auto flex max-w-7xl items-center justify-between px-6 py-3 lg:px-8">
+    <nav aria-label="Main navigation" class="mx-auto flex max-w-7xl items-center justify-between px-6 py-3 lg:px-8">
 
         {{-- LOGO --}}
         <a href="#home" class="flex items-center gap-3">
