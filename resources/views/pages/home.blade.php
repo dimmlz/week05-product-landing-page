@@ -9,7 +9,7 @@
     {{-- =========================================================
     WHY MAI-RYL / FEATURES
 ========================================================= --}}
-<section id="features" class="bg-[#FFFBF2] py-20 sm:py-24">
+<section id="features" class="bg-[#FFFBF2] py-16 sm:py-20 sm:py-24">
 
     <div class="mx-auto max-w-[1080px] px-6 lg:px-8">
 
